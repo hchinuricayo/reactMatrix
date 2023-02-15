@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Infraestructura como codigo IaC version 1.0.0
+          Infraestructura como codigo IaC version 2.0.0
         </a>
       </header>
     </div>
